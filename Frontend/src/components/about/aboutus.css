@@ -1,0 +1,32 @@
+.about *{
+  margin:20px;
+}
+.custom-flex-container{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+
+.ui.italized.header {
+  font-style: italic;
+  color: rgb(2, 34, 2);
+}
+.card.content.header {
+  font-weight: bold;
+  color: rgb(113, 5, 39);
+  text-align: center;
+}
+
+.custom-h2{
+  font-size: 20px;
+  text-align: center;
+}
+#custom-image{
+  align-self: center !important;
+  margin: auto;
+}
+.section{
+  color:black;
+  margin-bottom: 20px;
+}
